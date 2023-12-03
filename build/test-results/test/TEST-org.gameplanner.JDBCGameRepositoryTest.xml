@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.gameplanner.JDBCGameRepositoryTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-01-30T18:56:26" hostname="lonewanderer" time="0.29">
+  <properties/>
+  <testcase name="testSearchesMatchesNothing()" classname="org.gameplanner.JDBCGameRepositoryTest" time="0.256"/>
+  <testcase name="testDeleteFromEmptyRepository()" classname="org.gameplanner.JDBCGameRepositoryTest" time="0.005"/>
+  <testcase name="testSelectsHardcodedInteger()" classname="org.gameplanner.JDBCGameRepositoryTest" time="0.003"/>
+  <testcase name="testSearchMatchesExactlyOneTitle()" classname="org.gameplanner.JDBCGameRepositoryTest" time="0.003"/>
+  <testcase name="testDatabaseContainsNoGames()" classname="org.gameplanner.JDBCGameRepositoryTest" time="0.003"/>
+  <testcase name="testSearchMatchesMultipleTitles()" classname="org.gameplanner.JDBCGameRepositoryTest" time="0.003"/>
+  <testcase name="testDelete()" classname="org.gameplanner.JDBCGameRepositoryTest" time="0.006"/>
+  <testcase name="testInsertOneRow()" classname="org.gameplanner.JDBCGameRepositoryTest" time="0.003"/>
+  <testcase name="testUpdate()" classname="org.gameplanner.JDBCGameRepositoryTest" time="0.004"/>
+  <system-out><![CDATA[The game was successfully deleted!
+The game was successfully updated!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

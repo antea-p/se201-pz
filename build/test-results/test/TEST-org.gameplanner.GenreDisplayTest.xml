@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.gameplanner.GenreDisplayTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-01-30T18:56:26" hostname="lonewanderer" time="0.006">
+  <properties/>
+  <testcase name="testVisualNovel()" classname="org.gameplanner.GenreDisplayTest" time="0.002"/>
+  <testcase name="testFPS()" classname="org.gameplanner.GenreDisplayTest" time="0.001"/>
+  <testcase name="testRPG()" classname="org.gameplanner.GenreDisplayTest" time="0.001"/>
+  <testcase name="testNullGenreThrowsNullPointerException()" classname="org.gameplanner.GenreDisplayTest" time="0.001"/>
+  <testcase name="testOtherGenres()" classname="org.gameplanner.GenreDisplayTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

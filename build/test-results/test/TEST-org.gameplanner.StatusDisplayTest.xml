@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.gameplanner.StatusDisplayTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-01-30T18:56:26" hostname="lonewanderer" time="0.004">
+  <properties/>
+  <testcase name="testInProgress()" classname="org.gameplanner.StatusDisplayTest" time="0.001"/>
+  <testcase name="test100Completed()" classname="org.gameplanner.StatusDisplayTest" time="0.0"/>
+  <testcase name="testOtherStatuses()" classname="org.gameplanner.StatusDisplayTest" time="0.0"/>
+  <testcase name="testNullStatus()" classname="org.gameplanner.StatusDisplayTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
